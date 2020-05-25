@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5D0E0260-BE32-441E-A70B-4785682F0FB0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Facturaciòn/Properties/Conexion.cs">
+    <Files>
+      <File FileName="Facturaciòn/Properties/Conexion.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Facturaciòn" expanded="True">
+            <Node name="Facturaciòn" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="Conexion.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Facturaciòn PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
